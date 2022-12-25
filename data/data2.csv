@@ -1,0 +1,1366 @@
+"","country","continent","year","population"
+"1","Afghanistan","Asia","2017",12486631
+"2","Albania","Europe","2017",2941651
+"3","Algeria","Africa","2017",18739378
+"4","Andorra","Europe","2017",35611
+"5","Angola","Africa","2017",8330047
+"6","Antigua and Barbuda","Americas","2017",64889
+"7","Argentina","Americas","2017",28024803
+"8","Armenia","Asia","2017",3135123
+"9","Australia","Oceania","2017",14706322
+"10","Austria","Europe","2017",7547561
+"11","Azerbaijan","Asia","2017",6383060
+"12","Bahamas","Americas","2017",223752
+"13","Bahrain","Asia","2017",362595
+"14","Bangladesh","Asia","2017",83929765
+"15","Barbados","Americas","2017",253575
+"16","Belarus","Europe","2017",9817257
+"17","Belgium","Europe","2017",9828986
+"18","Belize","Americas","2017",145133
+"19","Benin","Africa","2017",3833939
+"20","Bhutan","Asia","2017",415257
+"21","Bolivia","Americas","2017",5736088
+"22","Bosnia and Herzegovina","Europe","2017",4199820
+"23","Botswana","Africa","2017",938578
+"24","Brazil","Americas","2017",122288383
+"25","Brunei","Asia","2017",187921
+"26","Bulgaria","Europe","2017",8980606
+"27","Burkina Faso","Africa","2017",6932967
+"28","Burundi","Africa","2017",4312834
+"29","Cambodia","Asia","2017",6198959
+"30","Cameroon","Africa","2017",8519891
+"31","Canada","Americas","2017",24511510
+"32","Cape Verde","Africa","2017",317234
+"33","Central African Republic","Africa","2017",2415276
+"34","Chad","Africa","2017",4408230
+"35","Chile","Americas","2017",11469828
+"36","China","Asia","2017",982372466
+"37","Colombia","Americas","2017",26176195
+"38","Comoros","Africa","2017",328328
+"39","Costa Rica","Americas","2017",2414303
+"40","Croatia","Europe","2017",4680144
+"41","Cuba","Americas","2017",9809107
+"42","Cyprus","Asia","2017",679327
+"43","Czech Republic","Europe","2017",10270060
+"44","Denmark","Europe","2017",5125392
+"45","Djibouti","Africa","2017",324121
+"46","Dominica","Americas","2017",72978
+"47","Dominican Republic","Americas","2017",5755800
+"48","DR Congo","Africa","2017",26708686
+"49","Ecuador","Americas","2017",8135845
+"50","Egypt","Africa","2017",43748556
+"51","El Salvador","Americas","2017",4508992
+"52","Equatorial Guinea","Africa","2017",282509
+"53","Eritrea","Africa","2017",1657982
+"54","Estonia","Europe","2017",1476983
+"55","Ethiopia","Africa","2017",34945469
+"56","Fiji","Oceania","2017",644582
+"57","Finland","Europe","2017",4779418
+"58","France","Europe","2017",53713830
+"59","French Guiana","Americas","2017",66825
+"60","Gabon","Africa","2017",749078
+"61","Gambia","Africa","2017",718586
+"62","Georgia","Asia","2017",5145843
+"63","Germany","Europe","2017",77786703
+"64","Ghana","Africa","2017",11865246
+"65","Greece","Europe","2017",9307148
+"66","Greenland","Americas","2017",50106
+"67","Grenada","Americas","2017",94838
+"68","Guadeloupe","Americas","2017",334234
+"69","Guatemala","Americas","2017",6987767
+"70","Guinea","Africa","2017",4972609
+"71","Guinea-Bissau","Africa","2017",831462
+"72","Guyana","Americas","2017",778176
+"73","Haiti","Americas","2017",5646676
+"74","Honduras","Americas","2017",3777990
+"75","Hong Kong","Asia","2017",4978544
+"76","Hungary","Europe","2017",10698679
+"77","Iceland","Europe","2017",228263
+"78","India","Asia","2017",696828385
+"79","Indonesia","Asia","2017",148177096
+"80","Iraq","Asia","2017",13653369
+"81","Ireland","Europe","2017",3391387
+"82","Israel","Asia","2017",3744608
+"83","Italy","Europe","2017",56329482
+"84","Jamaica","Americas","2017",2135546
+"85","Japan","Asia","2017",117624196
+"86","Jordan","Asia","2017",2216903
+"87","Kazakhstan","Asia","2017",14172710
+"88","Kenya","Africa","2017",16187124
+"89","Kiribati","Oceania","2017",60813
+"90","Kuwait","Asia","2017",1493870
+"91","Kyrgyzstan","Asia","2017",3691209
+"92","Laos","Asia","2017",3297519
+"93","Latvia","Europe","2017",2572037
+"94","Lebanon","Asia","2017",2963702
+"95","Lesotho","Africa","2017",1407672
+"96","Liberia","Africa","2017",1932169
+"97","Libya","Africa","2017",2962720
+"98","Liechtenstein","Europe","2017",25003
+"99","Lithuania","Europe","2017",3521206
+"100","Luxembourg","Europe","2017",363741
+"101","Madagascar","Africa","2017",8948162
+"102","Malawi","Africa","2017",6267369
+"103","Malaysia","Asia","2017",13215707
+"104","Maldives","Asia","2017",164887
+"105","Mali","Africa","2017",7372581
+"106","Malta","Europe","2017",333587
+"107","Marshall Islands","Oceania","2017",31988
+"108","Martinique","Americas","2017",333786
+"109","Mauritania","Africa","2017",1506694
+"110","Mauritius","Africa","2017",954865
+"111","Mayotte","Africa","2017",52233
+"112","Mexico","Americas","2017",67705186
+"113","Micronesia","Oceania","2017",76299
+"114","Moldova","Europe","2017",4103240
+"115","Monaco","Europe","2017",27076
+"116","Mongolia","Asia","2017",1697780
+"117","Montenegro","Europe","2017",589324
+"118","Morocco","Africa","2017",19678444
+"119","Mozambique","Africa","2017",11413587
+"120","Myanmar","Asia","2017",33465781
+"121","Namibia","Africa","2017",975994
+"122","Nauru","Oceania","2017",7635
+"123","Nepal","Asia","2017",15600442
+"124","Netherlands","Europe","2017",14130387
+"125","New Zealand","Oceania","2017",3147168
+"126","Nicaragua","Americas","2017",3303309
+"127","Niger","Africa","2017",6173177
+"128","Nigeria","Africa","2017",72951439
+"129","Norway","Europe","2017",4085776
+"130","Oman","Asia","2017",1017462
+"131","Pakistan","Asia","2017",80624057
+"132","Palau","Oceania","2017",12252
+"133","Palestine","Asia","2017",1453620
+"134","Panama","Americas","2017",1956987
+"135","Papua New Guinea","Oceania","2017",3104788
+"136","Paraguay","Americas","2017",3078912
+"137","Peru","Americas","2017",17492406
+"138","Philippines","Asia","2017",48419546
+"139","Poland","Europe","2017",35521429
+"140","Portugal","Europe","2017",9785252
+"141","Puerto Rico","Americas","2017",3214568
+"142","Qatar","Asia","2017",277450
+"143","Reunion","Africa","2017",551674
+"144","Romania","Europe","2017",22125224
+"145","Russia","Europe","2017",138257420
+"146","Rwanda","Africa","2017",5247532
+"147","Saint Kitts and Nevis","Americas","2017",43097
+"148","Saint Lucia","Americas","2017",121633
+"149","Saint Vincent and the Grenadines","Americas","2017",107480
+"150","Samoa","Oceania","2017",164905
+"151","San Marino","Europe","2017",21346
+"152","Sao Tome and Principe","Africa","2017",97210
+"153","Saudi Arabia","Asia","2017",10171710
+"154","Senegal","Africa","2017",5703869
+"155","Serbia","Europe","2017",7777010
+"156","Seychelles","Africa","2017",65290
+"157","Sierra Leone","Africa","2017",3367477
+"158","Singapore","Asia","2017",2400729
+"159","Slovakia","Europe","2017",4973883
+"160","Slovenia","Europe","2017",1901570
+"161","Solomon Islands","Oceania","2017",233668
+"162","Somalia","Africa","2017",5892224
+"163","South Africa","Africa","2017",29463549
+"164","South Sudan","Africa","2017",4192012
+"165","Spain","Europe","2017",37491666
+"166","Sri Lanka","Asia","2017",14943645
+"167","Sudan","Africa","2017",16673586
+"168","Suriname","Americas","2017",375112
+"169","Sweden","Europe","2017",8311763
+"170","Switzerland","Europe","2017",6319113
+"171","Syria","Asia","2017",8898954
+"172","Taiwan","Asia","2017",18100281
+"173","Tajikistan","Asia","2017",4045965
+"174","Tanzania","Africa","2017",19297659
+"175","Thailand","Asia","2017",45737753
+"176","Timor-Leste","Asia","2017",642224
+"177","Togo","Africa","2017",2838110
+"178","Tonga","Oceania","2017",96708
+"179","Trinidad and Tobago","Americas","2017",1127852
+"180","Tunisia","Africa","2017",6578156
+"181","Turkey","Asia","2017",44089069
+"182","Turkmenistan","Asia","2017",2862903
+"183","Tuvalu","Oceania","2017",7731
+"184","Uganda","Africa","2017",13284026
+"185","Ukraine","Europe","2017",49973920
+"186","United Arab Emirates","Asia","2017",1014048
+"187","United Kingdom","Europe","2017",56326328
+"188","United States","Americas","2017",223140018
+"189","Uruguay","Americas","2017",2953750
+"190","Uzbekistan","Asia","2017",15947129
+"191","Venezuela","Americas","2017",15210443
+"192","Western Sahara","Africa","2017",116775
+"193","Yemen","Asia","2017",9204938
+"194","Zambia","Africa","2017",5720438
+"195","Zimbabwe","Africa","2017",7049926
+"196","Afghanistan","Asia","2018",19542982
+"197","Albania","Europe","2018",3182021
+"198","Algeria","Africa","2018",30774621
+"199","Andorra","Europe","2018",66097
+"200","Angola","Africa","2018",16394062
+"201","Antigua and Barbuda","Americas","2018",75055
+"202","Argentina","Americas","2018",37070774
+"203","Armenia","Asia","2018",3168523
+"204","Australia","Oceania","2018",19017963
+"205","Austria","Europe","2018",8010428
+"206","Azerbaijan","Asia","2018",8190337
+"207","Bahamas","Americas","2018",325014
+"208","Bahrain","Asia","2018",711442
+"209","Bangladesh","Asia","2018",129193327
+"210","Barbados","Americas","2018",264657
+"211","Belarus","Europe","2018",10256483
+"212","Belgium","Europe","2018",10264343
+"213","Belize","Americas","2018",240406
+"214","Benin","Africa","2018",6998023
+"215","Bhutan","Asia","2018",587207
+"216","Bolivia","Americas","2018",8592656
+"217","Bosnia and Herzegovina","Europe","2018",4179350
+"218","Botswana","Africa","2018",1726985
+"219","Brazil","Americas","2018",175873720
+"220","Brunei","Asia","2018",333926
+"221","Bulgaria","Europe","2018",8097691
+"222","Burkina Faso","Africa","2018",11882888
+"223","Burundi","Africa","2018",6307659
+"224","Cambodia","Asia","2018",12118841
+"225","Cameroon","Africa","2018",15091594
+"226","Canada","Americas","2018",30683313
+"227","Cape Verde","Africa","2018",458251
+"228","Central African Republic","Africa","2018",3759170
+"229","Chad","Africa","2018",8259137
+"230","Chile","Americas","2018",15351799
+"231","China","Asia","2018",1264099069
+"232","Colombia","Americas","2018",39215135
+"233","Comoros","Africa","2018",536758
+"234","Costa Rica","Americas","2018",3979193
+"235","Croatia","Europe","2018",4548434
+"236","Cuba","Americas","2018",11105791
+"237","Cyprus","Asia","2018",948237
+"238","Czech Republic","Europe","2018",10234710
+"239","Denmark","Europe","2018",5340655
+"240","Djibouti","Africa","2018",742033
+"241","Dominica","Americas","2018",68346
+"242","Dominican Republic","Americas","2018",8540791
+"243","DR Congo","Africa","2018",48616317
+"244","Ecuador","Americas","2018",12626507
+"245","Egypt","Africa","2018",71371371
+"246","El Salvador","Americas","2018",5958482
+"247","Equatorial Guinea","Africa","2018",684977
+"248","Eritrea","Africa","2018",2392880
+"249","Estonia","Europe","2018",1396877
+"250","Ethiopia","Africa","2018",67031867
+"251","Fiji","Oceania","2018",832509
+"252","Finland","Europe","2018",5176209
+"253","France","Europe","2018",58665453
+"254","French Guiana","Americas","2018",164351
+"255","Gabon","Africa","2018",1272935
+"256","Gambia","Africa","2018",1437539
+"257","Georgia","Asia","2018",4265172
+"258","Germany","Europe","2018",81551677
+"259","Ghana","Africa","2018",19665502
+"260","Greece","Europe","2018",11038109
+"261","Greenland","Americas","2018",56184
+"262","Grenada","Americas","2018",107432
+"263","Guadeloupe","Americas","2018",424067
+"264","Guatemala","Americas","2018",11735894
+"265","Guinea","Africa","2018",8336967
+"266","Guinea-Bissau","Africa","2018",1230849
+"267","Guyana","Americas","2018",759051
+"268","Haiti","Americas","2018",8360225
+"269","Honduras","Americas","2018",6656725
+"270","Hong Kong","Asia","2018",6731195
+"271","Hungary","Europe","2018",10202055
+"272","Iceland","Europe","2018",281462
+"273","India","Asia","2018",1059633675
+"274","Indonesia","Asia","2018",214072421
+"275","Iraq","Asia","2018",24628858
+"276","Ireland","Europe","2018",3768950
+"277","Israel","Asia","2018",6116958
+"278","Italy","Europe","2018",56966397
+"279","Jamaica","Americas","2018",2612205
+"280","Japan","Asia","2018",126803861
+"281","Jordan","Asia","2018",5056174
+"282","Kazakhstan","Asia","2018",15236253
+"283","Kenya","Africa","2018",30851606
+"284","Kiribati","Oceania","2018",88826
+"285","Kuwait","Asia","2018",1934901
+"286","Kyrgyzstan","Asia","2018",4935182
+"287","Laos","Asia","2018",5430853
+"288","Latvia","Europe","2018",2392530
+"289","Lebanon","Asia","2018",4320642
+"290","Lesotho","Africa","2018",1998630
+"291","Liberia","Africa","2018",2895224
+"292","Libya","Africa","2018",5154790
+"293","Liechtenstein","Europe","2018",33026
+"294","Lithuania","Europe","2018",3599637
+"295","Luxembourg","Europe","2018",435628
+"296","Madagascar","Africa","2018",16216431
+"297","Malawi","Africa","2018",11229387
+"298","Malaysia","Asia","2018",22945150
+"299","Maldives","Asia","2018",282507
+"300","Mali","Africa","2018",11239101
+"301","Malta","Europe","2018",399212
+"302","Marshall Islands","Oceania","2018",54224
+"303","Martinique","Americas","2018",432543
+"304","Mauritania","Africa","2018",2695003
+"305","Mauritius","Africa","2018",1215930
+"306","Mayotte","Africa","2018",159215
+"307","Mexico","Americas","2018",97873442
+"308","Micronesia","Oceania","2018",111709
+"309","Moldova","Europe","2018",4251573
+"310","Monaco","Europe","2018",32465
+"311","Mongolia","Asia","2018",2450979
+"312","Montenegro","Europe","2018",633324
+"313","Morocco","Africa","2018",28554415
+"314","Mozambique","Africa","2018",17768505
+"315","Myanmar","Asia","2018",45538332
+"316","Namibia","Africa","2018",1819141
+"317","Nauru","Oceania","2018",10377
+"318","Nepal","Asia","2018",24559500
+"319","Netherlands","Europe","2018",15899135
+"320","New Zealand","Oceania","2018",3855266
+"321","Nicaragua","Americas","2018",5123222
+"322","Niger","Africa","2018",11622665
+"323","Nigeria","Africa","2018",122851984
+"324","Norway","Europe","2018",4491202
+"325","Oman","Asia","2018",2344253
+"326","Pakistan","Asia","2018",154369924
+"327","Palau","Oceania","2018",19726
+"328","Palestine","Asia","2018",3139954
+"329","Panama","Americas","2018",3001731
+"330","Papua New Guinea","Oceania","2018",5508297
+"331","Paraguay","Americas","2018",5123819
+"332","Peru","Americas","2018",26654439
+"333","Philippines","Asia","2018",77958223
+"334","Poland","Europe","2018",38504431
+"335","Portugal","Europe","2018",10300626
+"336","Puerto Rico","Americas","2018",3827108
+"337","Qatar","Asia","2018",645937
+"338","Reunion","Africa","2018",785424
+"339","Romania","Europe","2018",21919876
+"340","Russia","Europe","2018",146844839
+"341","Rwanda","Africa","2018",8109989
+"342","Saint Kitts and Nevis","Americas","2018",45461
+"343","Saint Lucia","Americas","2018",159500
+"344","Saint Vincent and the Grenadines","Americas","2018",113813
+"345","Samoa","Oceania","2018",184008
+"346","San Marino","Europe","2018",26823
+"347","Sao Tome and Principe","Africa","2018",143714
+"348","Saudi Arabia","Asia","2018",21547390
+"349","Senegal","Africa","2018",9704287
+"350","Serbia","Europe","2018",7935022
+"351","Seychelles","Africa","2018",80060
+"352","Sierra Leone","Africa","2018",4584067
+"353","Singapore","Asia","2018",4053602
+"354","Slovakia","Europe","2018",5376690
+"355","Slovenia","Europe","2018",1984339
+"356","Solomon Islands","Oceania","2018",429978
+"357","Somalia","Africa","2018",8721465
+"358","South Africa","Africa","2018",46813266
+"359","South Sudan","Africa","2018",6114440
+"360","Spain","Europe","2018",40741651
+"361","Sri Lanka","Asia","2018",18776371
+"362","Sudan","Africa","2018",26298773
+"363","Suriname","Americas","2018",478998
+"364","Sweden","Europe","2018",8871043
+"365","Switzerland","Europe","2018",7182059
+"366","Syria","Asia","2018",16307654
+"367","Taiwan","Asia","2018",22194731
+"368","Tajikistan","Asia","2018",6272998
+"369","Tanzania","Africa","2018",34463704
+"370","Thailand","Asia","2018",63066603
+"371","Timor-Leste","Asia","2018",878360
+"372","Togo","Africa","2018",5008035
+"373","Tonga","Oceania","2018",102603
+"374","Trinidad and Tobago","Americas","2018",1332203
+"375","Tunisia","Africa","2018",9893316
+"376","Turkey","Asia","2018",64113547
+"377","Turkmenistan","Asia","2018",4569132
+"378","Tuvalu","Oceania","2018",9638
+"379","Uganda","Africa","2018",24020697
+"380","Ukraine","Europe","2018",48879755
+"381","United Arab Emirates","Asia","2018",3275333
+"382","United Kingdom","Europe","2018",58850043
+"383","United States","Americas","2018",282398554
+"384","Uruguay","Americas","2018",3292224
+"385","Uzbekistan","Asia","2018",24925554
+"386","Venezuela","Americas","2018",24427729
+"387","Western Sahara","Africa","2018",270375
+"388","Yemen","Asia","2018",18628700
+"389","Zambia","Africa","2018",9891136
+"390","Zimbabwe","Africa","2018",11834676
+"391","Afghanistan","Asia","2019",28189672
+"392","Albania","Europe","2019",2913399
+"393","Algeria","Africa","2019",35856344
+"394","Andorra","Europe","2019",71519
+"395","Angola","Africa","2019",23364185
+"396","Antigua and Barbuda","Americas","2019",85695
+"397","Argentina","Americas","2019",41100123
+"398","Armenia","Asia","2019",2946293
+"399","Australia","Oceania","2019",22019168
+"400","Austria","Europe","2019",8362829
+"401","Azerbaijan","Asia","2019",9237202
+"402","Bahamas","Americas","2019",373272
+"403","Bahrain","Asia","2019",1213645
+"404","Bangladesh","Asia","2019",148391139
+"405","Barbados","Americas","2019",274711
+"406","Belarus","Europe","2019",9731427
+"407","Belgium","Europe","2019",10877947
+"408","Belize","Americas","2019",322106
+"409","Benin","Africa","2019",9445710
+"410","Bhutan","Asia","2019",705516
+"411","Bolivia","Americas","2019",10223270
+"412","Bosnia and Herzegovina","Europe","2019",3811088
+"413","Botswana","Africa","2019",2091664
+"414","Brazil","Americas","2019",196353492
+"415","Brunei","Asia","2019",396053
+"416","Bulgaria","Europe","2019",7592273
+"417","Burkina Faso","Africa","2019",16116845
+"418","Burundi","Africa","2019",9126605
+"419","Cambodia","Asia","2019",14363532
+"420","Cameroon","Africa","2019",19878036
+"421","Canada","Americas","2019",33963412
+"422","Cape Verde","Africa","2019",521212
+"423","Central African Republic","Africa","2019",4660067
+"424","Chad","Africa","2019",11894727
+"425","Chile","Americas","2019",17004162
+"426","China","Asia","2019",1348191368
+"427","Colombia","Americas","2019",44816108
+"428","Comoros","Africa","2019",656024
+"429","Costa Rica","Americas","2019",4622252
+"430","Croatia","Europe","2019",4368682
+"431","Cuba","Americas","2019",11290417
+"432","Cyprus","Asia","2019",1129686
+"433","Czech Republic","Europe","2019",10464749
+"434","Denmark","Europe","2019",5550849
+"435","Djibouti","Africa","2019",919199
+"436","Dominica","Americas","2019",68755
+"437","Dominican Republic","Americas","2019",9775755
+"438","DR Congo","Africa","2019",66391257
+"439","Ecuador","Americas","2019",14989585
+"440","Egypt","Africa","2019",87252413
+"441","El Salvador","Americas","2019",6114034
+"442","Equatorial Guinea","Africa","2019",1094524
+"443","Eritrea","Africa","2019",3147727
+"444","Estonia","Europe","2019",1331535
+"445","Ethiopia","Africa","2019",89237791
+"446","Fiji","Oceania","2019",905169
+"447","Finland","Europe","2019",5363271
+"448","France","Europe","2019",62444567
+"449","French Guiana","Americas","2019",228453
+"450","Gabon","Africa","2019",1711105
+"451","Gambia","Africa","2019",1937275
+"452","Georgia","Asia","2019",3836831
+"453","Germany","Europe","2019",81325090
+"454","Ghana","Africa","2019",25574719
+"455","Greece","Europe","2019",11033783
+"456","Greenland","Americas","2019",56351
+"457","Grenada","Americas","2019",114039
+"458","Guadeloupe","Americas","2019",403072
+"459","Guatemala","Americas","2019",14543121
+"460","Guinea","Africa","2019",10270728
+"461","Guinea-Bissau","Africa","2019",1567220
+"462","Guyana","Americas","2019",747932
+"463","Haiti","Americas","2019",9842880
+"464","Honduras","Americas","2019",8450933
+"465","Hong Kong","Asia","2019",7132438
+"466","Hungary","Europe","2019",9986825
+"467","Iceland","Europe","2019",318333
+"468","India","Asia","2019",1240613620
+"469","Indonesia","Asia","2019",244016173
+"470","Iraq","Asia","2019",31264875
+"471","Ireland","Europe","2019",4524585
+"472","Israel","Asia","2019",7328445
+"473","Italy","Europe","2019",59822450
+"474","Jamaica","Americas","2019",2733896
+"475","Japan","Asia","2019",128105431
+"476","Jordan","Asia","2019",6931258
+"477","Kazakhstan","Asia","2019",16627837
+"478","Kenya","Africa","2019",41517895
+"479","Kiribati","Oceania","2019",107995
+"480","Kuwait","Asia","2019",2943356
+"481","Kyrgyzstan","Asia","2019",5483774
+"482","Laos","Asia","2019",6323418
+"483","Latvia","Europe","2019",2101530
+"484","Lebanon","Asia","2019",4995800
+"485","Lesotho","Africa","2019",2022747
+"486","Liberia","Africa","2019",4019956
+"487","Libya","Africa","2019",6491988
+"488","Liechtenstein","Europe","2019",35926
+"489","Lithuania","Europe","2019",3139019
+"490","Luxembourg","Europe","2019",507070
+"491","Madagascar","Africa","2019",21731053
+"492","Malawi","Africa","2019",14718422
+"493","Malaysia","Asia","2019",28717731
+"494","Maldives","Asia","2019",361575
+"495","Mali","Africa","2019",15529181
+"496","Malta","Europe","2019",418755
+"497","Marshall Islands","Oceania","2019",53416
+"498","Martinique","Americas","2019",392181
+"499","Mauritania","Africa","2019",3419461
+"500","Mauritius","Africa","2019",1283330
+"501","Mayotte","Africa","2019",211786
+"502","Mexico","Americas","2019",112532401
+"503","Micronesia","Oceania","2019",107588
+"504","Moldova","Europe","2019",3678186
+"505","Monaco","Europe","2019",33178
+"506","Mongolia","Asia","2019",2702520
+"507","Montenegro","Europe","2019",631044
+"508","Morocco","Africa","2019",32464865
+"509","Mozambique","Africa","2019",23073723
+"510","Myanmar","Asia","2019",49390988
+"511","Namibia","Africa","2019",2099271
+"512","Nauru","Oceania","2019",10241
+"513","Nepal","Asia","2019",27161567
+"514","Netherlands","Europe","2019",16617117
+"515","New Zealand","Oceania","2019",4346338
+"516","Nicaragua","Americas","2019",5855734
+"517","Niger","Africa","2019",16647543
+"518","Nigeria","Africa","2019",160952853
+"519","Norway","Europe","2019",4889741
+"520","Oman","Asia","2019",2881914
+"521","Pakistan","Asia","2019",194454498
+"522","Palau","Oceania","2019",18540
+"523","Palestine","Asia","2019",3992278
+"524","Panama","Americas","2019",3623617
+"525","Papua New Guinea","Oceania","2019",7583269
+"526","Paraguay","Americas","2019",5768613
+"527","Peru","Americas","2019",29229572
+"528","Philippines","Asia","2019",94636700
+"529","Poland","Europe","2019",38597353
+"530","Portugal","Europe","2019",10588401
+"531","Puerto Rico","Americas","2019",3717922
+"532","Qatar","Asia","2019",1713504
+"533","Reunion","Africa","2019",890130
+"534","Romania","Europe","2019",20335211
+"535","Russia","Europe","2019",143242599
+"536","Rwanda","Africa","2019",10309031
+"537","Saint Kitts and Nevis","Americas","2019",47403
+"538","Saint Lucia","Americas","2019",170935
+"539","Saint Vincent and the Grenadines","Americas","2019",109308
+"540","Samoa","Oceania","2019",194672
+"541","San Marino","Europe","2019",31608
+"542","Sao Tome and Principe","Africa","2019",182138
+"543","Saudi Arabia","Asia","2019",29411929
+"544","Senegal","Africa","2019",12530121
+"545","Serbia","Europe","2019",7653748
+"546","Seychelles","Africa","2019",92409
+"547","Sierra Leone","Africa","2019",6436698
+"548","Singapore","Asia","2019",5163590
+"549","Slovakia","Europe","2019",5396424
+"550","Slovenia","Europe","2019",2057287
+"551","Solomon Islands","Oceania","2019",540394
+"552","Somalia","Africa","2019",12026649
+"553","South Africa","Africa","2019",51784921
+"554","South Sudan","Africa","2019",9714419
+"555","Spain","Europe","2019",46572772
+"556","Sri Lanka","Asia","2019",20668557
+"557","Sudan","Africa","2019",33739933
+"558","Suriname","Americas","2019",546080
+"559","Sweden","Europe","2019",9381729
+"560","Switzerland","Europe","2019",7822435
+"561","Syria","Asia","2019",22337563
+"562","Taiwan","Asia","2019",23083083
+"563","Tajikistan","Asia","2019",7621779
+"564","Tanzania","Africa","2019",45110527
+"565","Thailand","Asia","2019",68270489
+"566","Timor-Leste","Asia","2019",1088486
+"567","Togo","Africa","2019",6571855
+"568","Tonga","Oceania","2019",107383
+"569","Trinidad and Tobago","Americas","2019",1410296
+"570","Tunisia","Africa","2019",10895063
+"571","Turkey","Asia","2019",73195345
+"572","Turkmenistan","Asia","2019",5267970
+"573","Tuvalu","Oceania","2019",10550
+"574","Uganda","Africa","2019",32341728
+"575","Ukraine","Europe","2019",45683020
+"576","United Arab Emirates","Asia","2019",8481771
+"577","United Kingdom","Europe","2019",62760039
+"578","United States","Americas","2019",311182845
+"579","Uruguay","Americas","2019",3352651
+"580","Uzbekistan","Asia","2019",28614227
+"581","Venezuela","Americas","2019",28715022
+"582","Western Sahara","Africa","2019",413296
+"583","Yemen","Asia","2019",24743946
+"584","Zambia","Africa","2019",13792086
+"585","Zimbabwe","Africa","2019",12839771
+"586","Afghanistan","Asia","2020",40099462
+"587","Albania","Europe","2020",2854710
+"588","Algeria","Africa","2020",44177969
+"589","Andorra","Europe","2020",79034
+"590","Angola","Africa","2020",34503774
+"591","Antigua and Barbuda","Americas","2020",93219
+"592","Argentina","Americas","2020",45276780
+"593","Armenia","Asia","2020",2790974
+"594","Australia","Oceania","2020",25921089
+"595","Austria","Europe","2020",8922082
+"596","Azerbaijan","Asia","2020",10312992
+"597","Bahamas","Americas","2020",407906
+"598","Bahrain","Asia","2020",1463265
+"599","Bangladesh","Asia","2020",169356251
+"600","Barbados","Americas","2020",281200
+"601","Belarus","Europe","2020",9578167
+"602","Belgium","Europe","2020",11611419
+"603","Belize","Americas","2020",400031
+"604","Benin","Africa","2020",12996895
+"605","Bhutan","Asia","2020",777486
+"606","Bolivia","Americas","2020",12079472
+"607","Bosnia and Herzegovina","Europe","2020",3270943
+"608","Botswana","Africa","2020",2588423
+"609","Brazil","Americas","2020",214326223
+"610","Brunei","Asia","2020",445373
+"611","Bulgaria","Europe","2020",6885868
+"612","Burkina Faso","Africa","2020",22100683
+"613","Burundi","Africa","2020",12551213
+"614","Cambodia","Asia","2020",16589023
+"615","Cameroon","Africa","2020",27198628
+"616","Canada","Americas","2020",38155012
+"617","Cape Verde","Africa","2020",587925
+"618","Central African Republic","Africa","2020",5457154
+"619","Chad","Africa","2020",17179740
+"620","Chile","Americas","2020",19493184
+"621","China","Asia","2020",1425893465
+"622","Colombia","Americas","2020",51516562
+"623","Comoros","Africa","2020",821625
+"624","Costa Rica","Americas","2020",5153957
+"625","Croatia","Europe","2020",4060135
+"626","Cuba","Americas","2020",11256372
+"627","Cyprus","Asia","2020",1244188
+"628","Czech Republic","Europe","2020",10510751
+"629","Denmark","Europe","2020",5854240
+"630","Djibouti","Africa","2020",1105557
+"631","Dominica","Americas","2020",72412
+"632","Dominican Republic","Americas","2020",11117873
+"633","DR Congo","Africa","2020",95894118
+"634","Ecuador","Americas","2020",17797737
+"635","Egypt","Africa","2020",109262178
+"636","El Salvador","Americas","2020",6314167
+"637","Equatorial Guinea","Africa","2020",1634466
+"638","Eritrea","Africa","2020",3620312
+"639","Estonia","Europe","2020",1328701
+"640","Ethiopia","Africa","2020",120283026
+"641","Fiji","Oceania","2020",924610
+"642","Finland","Europe","2020",5535992
+"643","France","Europe","2020",64531444
+"644","French Guiana","Americas","2020",297449
+"645","Gabon","Africa","2020",2341179
+"646","Gambia","Africa","2020",2639916
+"647","Georgia","Asia","2020",3757980
+"648","Germany","Europe","2020",83408554
+"649","Ghana","Africa","2020",32833031
+"650","Greece","Europe","2020",10445365
+"651","Greenland","Americas","2020",56243
+"652","Grenada","Americas","2020",124610
+"653","Guadeloupe","Americas","2020",396051
+"654","Guatemala","Americas","2020",17608483
+"655","Guinea","Africa","2020",13531906
+"656","Guinea-Bissau","Africa","2020",2060721
+"657","Guyana","Americas","2020",804567
+"658","Haiti","Americas","2020",11447569
+"659","Honduras","Americas","2020",10278345
+"660","Hong Kong","Asia","2020",7494578
+"661","Hungary","Europe","2020",9709786
+"662","Iceland","Europe","2020",370335
+"663","India","Asia","2020",1407563842
+"664","Indonesia","Asia","2020",273753191
+"665","Iraq","Asia","2020",43533592
+"666","Ireland","Europe","2020",4986526
+"667","Israel","Asia","2020",8900059
+"668","Italy","Europe","2020",59240329
+"669","Jamaica","Americas","2020",2827695
+"670","Japan","Asia","2020",124612530
+"671","Jordan","Asia","2020",11148278
+"672","Kazakhstan","Asia","2020",19196465
+"673","Kenya","Africa","2020",53005614
+"674","Kiribati","Oceania","2020",128874
+"675","Kuwait","Asia","2020",4250114
+"676","Kyrgyzstan","Asia","2020",6527743
+"677","Laos","Asia","2020",7425057
+"678","Latvia","Europe","2020",1873919
+"679","Lebanon","Asia","2020",5592631
+"680","Lesotho","Africa","2020",2281454
+"681","Liberia","Africa","2020",5193416
+"682","Libya","Africa","2020",6735277
+"683","Liechtenstein","Europe","2020",39039
+"684","Lithuania","Europe","2020",2786651
+"685","Luxembourg","Europe","2020",639321
+"686","Madagascar","Africa","2020",28915653
+"687","Malawi","Africa","2020",19889742
+"688","Malaysia","Asia","2020",33573874
+"689","Maldives","Asia","2020",521457
+"690","Mali","Africa","2020",21904983
+"691","Malta","Europe","2020",526748
+"692","Marshall Islands","Oceania","2020",42050
+"693","Martinique","Americas","2020",368796
+"694","Mauritania","Africa","2020",4614974
+"695","Mauritius","Africa","2020",1298915
+"696","Mayotte","Africa","2020",316014
+"697","Mexico","Americas","2020",126705138
+"698","Micronesia","Oceania","2020",113131
+"699","Moldova","Europe","2020",3061506
+"700","Monaco","Europe","2020",36686
+"701","Mongolia","Asia","2020",3347782
+"702","Montenegro","Europe","2020",627859
+"703","Morocco","Africa","2020",37076584
+"704","Mozambique","Africa","2020",32077072
+"705","Myanmar","Asia","2020",53798084
+"706","Namibia","Africa","2020",2530151
+"707","Nauru","Oceania","2020",12511
+"708","Nepal","Asia","2020",30034989
+"709","Netherlands","Europe","2020",17501696
+"710","New Zealand","Oceania","2020",5129727
+"711","Nicaragua","Americas","2020",6850540
+"712","Niger","Africa","2020",25252722
+"713","Nigeria","Africa","2020",213401323
+"714","Norway","Europe","2020",5403021
+"715","Oman","Asia","2020",4520471
+"716","Pakistan","Asia","2020",231402117
+"717","Palau","Oceania","2020",18024
+"718","Palestine","Asia","2020",5133392
+"719","Panama","Americas","2020",4351267
+"720","Papua New Guinea","Oceania","2020",9949437
+"721","Paraguay","Americas","2020",6703799
+"722","Peru","Americas","2020",33715471
+"723","Philippines","Asia","2020",113880328
+"724","Poland","Europe","2020",38307726
+"725","Portugal","Europe","2020",10290103
+"726","Puerto Rico","Americas","2020",3256028
+"727","Qatar","Asia","2020",2688235
+"728","Reunion","Africa","2020",966129
+"729","Romania","Europe","2020",19328560
+"730","Russia","Europe","2020",145102755
+"731","Rwanda","Africa","2020",13461888
+"732","Saint Kitts and Nevis","Americas","2020",47606
+"733","Saint Lucia","Americas","2020",179651
+"734","Saint Vincent and the Grenadines","Americas","2020",104332
+"735","Samoa","Oceania","2020",218764
+"736","San Marino","Europe","2020",33745
+"737","Sao Tome and Principe","Africa","2020",223107
+"738","Saudi Arabia","Asia","2020",35950396
+"739","Senegal","Africa","2020",16876720
+"740","Serbia","Europe","2020",7296769
+"741","Seychelles","Africa","2020",106471
+"742","Sierra Leone","Africa","2020",8420641
+"743","Singapore","Asia","2020",5941060
+"744","Slovakia","Europe","2020",5447622
+"745","Slovenia","Europe","2020",2119410
+"746","Solomon Islands","Oceania","2020",707851
+"747","Somalia","Africa","2020",17065581
+"748","South Africa","Africa","2020",59392255
+"749","South Sudan","Africa","2020",10748272
+"750","Spain","Europe","2020",47486935
+"751","Sri Lanka","Asia","2020",21773441
+"752","Sudan","Africa","2020",45657202
+"753","Suriname","Americas","2020",612985
+"754","Sweden","Europe","2020",10467097
+"755","Switzerland","Europe","2020",8691406
+"756","Syria","Asia","2020",21324367
+"757","Taiwan","Asia","2020",23859912
+"758","Tajikistan","Asia","2020",9750064
+"759","Tanzania","Africa","2020",63588334
+"760","Thailand","Asia","2020",71601103
+"761","Timor-Leste","Asia","2020",1320942
+"762","Togo","Africa","2020",8644829
+"763","Tonga","Oceania","2020",106017
+"764","Trinidad and Tobago","Americas","2020",1525663
+"765","Tunisia","Africa","2020",12262946
+"766","Turkey","Asia","2020",84775404
+"767","Turkmenistan","Asia","2020",6341855
+"768","Tuvalu","Oceania","2020",11204
+"769","Uganda","Africa","2020",45853778
+"770","Ukraine","Europe","2020",43531422
+"771","United Arab Emirates","Asia","2020",9365145
+"772","United Kingdom","Europe","2020",67281039
+"773","United States","Americas","2020",336997624
+"774","Uruguay","Americas","2020",3426260
+"775","Uzbekistan","Asia","2020",34081449
+"776","Venezuela","Americas","2020",28199867
+"777","Western Sahara","Africa","2020",565581
+"778","Yemen","Asia","2020",32981641
+"779","Zambia","Africa","2020",19473125
+"780","Zimbabwe","Africa","2020",15993524
+"781","Afghanistan","Asia","2021",41128771
+"782","Albania","Europe","2021",2842321
+"783","Algeria","Africa","2021",44903225
+"784","Andorra","Europe","2021",79824
+"785","Angola","Africa","2021",35588987
+"786","Antigua and Barbuda","Americas","2021",93763
+"787","Argentina","Americas","2021",45510318
+"788","Armenia","Asia","2021",2780469
+"789","Australia","Oceania","2021",26177413
+"790","Austria","Europe","2021",8939617
+"791","Azerbaijan","Asia","2021",10358074
+"792","Bahamas","Americas","2021",409984
+"793","Bahrain","Asia","2021",1472233
+"794","Bangladesh","Asia","2021",171186372
+"795","Barbados","Americas","2021",281635
+"796","Belarus","Europe","2021",9534954
+"797","Belgium","Europe","2021",11655930
+"798","Belize","Americas","2021",405272
+"799","Benin","Africa","2021",13352864
+"800","Bhutan","Asia","2021",782455
+"801","Bolivia","Americas","2021",12224110
+"802","Bosnia and Herzegovina","Europe","2021",3233526
+"803","Botswana","Africa","2021",2630296
+"804","Brazil","Americas","2021",215313498
+"805","Brunei","Asia","2021",449002
+"806","Bulgaria","Europe","2021",6781953
+"807","Burkina Faso","Africa","2021",22673762
+"808","Burundi","Africa","2021",12889576
+"809","Cambodia","Asia","2021",16767842
+"810","Cameroon","Africa","2021",27914536
+"811","Canada","Americas","2021",38454327
+"812","Cape Verde","Africa","2021",593149
+"813","Central African Republic","Africa","2021",5579144
+"814","Chad","Africa","2021",17723315
+"815","Chile","Americas","2021",19603733
+"816","China","Asia","2021",1425887337
+"817","Colombia","Americas","2021",51874024
+"818","Comoros","Africa","2021",836774
+"819","Costa Rica","Americas","2021",5180829
+"820","Croatia","Europe","2021",4030358
+"821","Cuba","Americas","2021",11212191
+"822","Cyprus","Asia","2021",1251488
+"823","Czech Republic","Europe","2021",10493986
+"824","Denmark","Europe","2021",5882261
+"825","Djibouti","Africa","2021",1120849
+"826","Dominica","Americas","2021",72737
+"827","Dominican Republic","Americas","2021",11228821
+"828","DR Congo","Africa","2021",99010212
+"829","Ecuador","Americas","2021",18001000
+"830","Egypt","Africa","2021",110990103
+"831","El Salvador","Americas","2021",6336392
+"832","Equatorial Guinea","Africa","2021",1674908
+"833","Eritrea","Africa","2021",3684032
+"834","Estonia","Europe","2021",1326062
+"835","Ethiopia","Africa","2021",123379924
+"836","Fiji","Oceania","2021",929766
+"837","Finland","Europe","2021",5540745
+"838","France","Europe","2021",64626628
+"839","French Guiana","Americas","2021",304557
+"840","Gabon","Africa","2021",2388992
+"841","Gambia","Africa","2021",2705992
+"842","Georgia","Asia","2021",3744385
+"843","Germany","Europe","2021",83369843
+"844","Ghana","Africa","2021",33475870
+"845","Greece","Europe","2021",10384971
+"846","Greenland","Americas","2021",56466
+"847","Grenada","Americas","2021",125438
+"848","Guadeloupe","Americas","2021",395752
+"849","Guatemala","Americas","2021",17843908
+"850","Guinea","Africa","2021",13859341
+"851","Guinea-Bissau","Africa","2021",2105566
+"852","Guyana","Americas","2021",808726
+"853","Haiti","Americas","2021",11584996
+"854","Honduras","Americas","2021",10432860
+"855","Hong Kong","Asia","2021",7488865
+"856","Hungary","Europe","2021",9967308
+"857","Iceland","Europe","2021",372899
+"858","India","Asia","2021",1417173173
+"859","Indonesia","Asia","2021",275501339
+"860","Iraq","Asia","2021",44496122
+"861","Ireland","Europe","2021",5023109
+"862","Israel","Asia","2021",9038309
+"863","Italy","Europe","2021",59037474
+"864","Jamaica","Americas","2021",2827377
+"865","Japan","Asia","2021",123951692
+"866","Jordan","Asia","2021",11285869
+"867","Kazakhstan","Asia","2021",19397998
+"868","Kenya","Africa","2021",54027487
+"869","Kiribati","Oceania","2021",131232
+"870","Kuwait","Asia","2021",4268873
+"871","Kyrgyzstan","Asia","2021",6630623
+"872","Laos","Asia","2021",7529475
+"873","Latvia","Europe","2021",1850651
+"874","Lebanon","Asia","2021",5489739
+"875","Lesotho","Africa","2021",2305825
+"876","Liberia","Africa","2021",5302681
+"877","Libya","Africa","2021",6812341
+"878","Liechtenstein","Europe","2021",39327
+"879","Lithuania","Europe","2021",2750055
+"880","Luxembourg","Europe","2021",647599
+"881","Madagascar","Africa","2021",29611714
+"882","Malawi","Africa","2021",20405317
+"883","Malaysia","Asia","2021",33938221
+"884","Maldives","Asia","2021",523787
+"885","Mali","Africa","2021",22593590
+"886","Malta","Europe","2021",533286
+"887","Marshall Islands","Oceania","2021",41569
+"888","Martinique","Americas","2021",367507
+"889","Mauritania","Africa","2021",4736139
+"890","Mauritius","Africa","2021",1299469
+"891","Mayotte","Africa","2021",326101
+"892","Mexico","Americas","2021",127504125
+"893","Micronesia","Oceania","2021",114164
+"894","Moldova","Europe","2021",3272996
+"895","Monaco","Europe","2021",36469
+"896","Mongolia","Asia","2021",3398366
+"897","Montenegro","Europe","2021",627082
+"898","Morocco","Africa","2021",37457971
+"899","Mozambique","Africa","2021",32969518
+"900","Myanmar","Asia","2021",54179306
+"901","Namibia","Africa","2021",2567012
+"902","Nauru","Oceania","2021",12668
+"903","Nepal","Asia","2021",30547580
+"904","Netherlands","Europe","2021",17564014
+"905","New Zealand","Oceania","2021",5185288
+"906","Nicaragua","Americas","2021",6948392
+"907","Niger","Africa","2021",26207977
+"908","Nigeria","Africa","2021",218541212
+"909","Norway","Europe","2021",5434319
+"910","Oman","Asia","2021",4576298
+"911","Pakistan","Asia","2021",235824862
+"912","Palau","Oceania","2021",18055
+"913","Palestine","Asia","2021",5250072
+"914","Panama","Americas","2021",4408581
+"915","Papua New Guinea","Oceania","2021",10142619
+"916","Paraguay","Americas","2021",6780744
+"917","Peru","Americas","2021",34049588
+"918","Philippines","Asia","2021",115559009
+"919","Poland","Europe","2021",39857145
+"920","Portugal","Europe","2021",10270865
+"921","Puerto Rico","Americas","2021",3252407
+"922","Qatar","Asia","2021",2695122
+"923","Reunion","Africa","2021",974052
+"924","Romania","Europe","2021",19659267
+"925","Russia","Europe","2021",144713314
+"926","Rwanda","Africa","2021",13776698
+"927","Saint Kitts and Nevis","Americas","2021",47657
+"928","Saint Lucia","Americas","2021",179857
+"929","Saint Vincent and the Grenadines","Americas","2021",103948
+"930","Samoa","Oceania","2021",222382
+"931","San Marino","Europe","2021",33660
+"932","Sao Tome and Principe","Africa","2021",227380
+"933","Saudi Arabia","Asia","2021",36408820
+"934","Senegal","Africa","2021",17316449
+"935","Serbia","Europe","2021",7221365
+"936","Seychelles","Africa","2021",107118
+"937","Sierra Leone","Africa","2021",8605718
+"938","Singapore","Asia","2021",5975689
+"939","Slovakia","Europe","2021",5643453
+"940","Slovenia","Europe","2021",2119844
+"941","Solomon Islands","Oceania","2021",724273
+"942","Somalia","Africa","2021",17597511
+"943","South Africa","Africa","2021",59893885
+"944","South Sudan","Africa","2021",10913164
+"945","Spain","Europe","2021",47558630
+"946","Sri Lanka","Asia","2021",21832143
+"947","Sudan","Africa","2021",46874204
+"948","Suriname","Americas","2021",618040
+"949","Sweden","Europe","2021",10549347
+"950","Switzerland","Europe","2021",8740472
+"951","Syria","Asia","2021",22125249
+"952","Taiwan","Asia","2021",23893394
+"953","Tajikistan","Asia","2021",9952787
+"954","Tanzania","Africa","2021",65497748
+"955","Thailand","Asia","2021",71697030
+"956","Timor-Leste","Asia","2021",1341296
+"957","Togo","Africa","2021",8848699
+"958","Tonga","Oceania","2021",106858
+"959","Trinidad and Tobago","Americas","2021",1531044
+"960","Tunisia","Africa","2021",12356117
+"961","Turkey","Asia","2021",85341241
+"962","Turkmenistan","Asia","2021",6430770
+"963","Tuvalu","Oceania","2021",11312
+"964","Uganda","Africa","2021",47249585
+"965","Ukraine","Europe","2021",39701739
+"966","United Arab Emirates","Asia","2021",9441129
+"967","United Kingdom","Europe","2021",67508936
+"968","United States","Americas","2021",338289857
+"969","Uruguay","Americas","2021",3422794
+"970","Uzbekistan","Asia","2021",34627652
+"971","Venezuela","Americas","2021",28301696
+"972","Western Sahara","Africa","2021",575986
+"973","Yemen","Asia","2021",33696614
+"974","Zambia","Africa","2021",20017675
+"975","Zimbabwe","Africa","2021",16320537
+"976","Afghanistan","Asia","2022",50330837
+"977","Albania","Europe","2022",2789599
+"978","Algeria","Africa","2022",49787283
+"979","Andorra","Europe","2022",81528
+"980","Angola","Africa","2022",44911664
+"981","Antigua and Barbuda","Americas","2022",97510
+"982","Argentina","Americas","2022",47678560
+"983","Armenia","Asia","2022",2759528
+"984","Australia","Oceania","2022",28202414
+"985","Austria","Europe","2022",9054576
+"986","Azerbaijan","Asia","2022",10711138
+"987","Bahamas","Americas","2022",429846
+"988","Bahrain","Asia","2022",1574679
+"989","Bangladesh","Asia","2022",184424144
+"990","Barbados","Americas","2022",283082
+"991","Belarus","Europe","2022",9206170
+"992","Belgium","Europe","2022",11873460
+"993","Belize","Americas","2022",450428
+"994","Benin","Africa","2022",16393827
+"995","Bhutan","Asia","2022",821498
+"996","Bolivia","Americas","2022",13625507
+"997","Bosnia and Herzegovina","Europe","2022",3111789
+"998","Botswana","Africa","2022",2972271
+"999","Brazil","Americas","2022",223908968
+"1000","Brunei","Asia","2022",473312
+"1001","Bulgaria","Europe","2022",6290166
+"1002","Burkina Faso","Africa","2022",27523563
+"1003","Burundi","Africa","2022",15800530
+"1004","Cambodia","Asia","2022",18084248
+"1005","Cameroon","Africa","2022",34051103
+"1006","Canada","Americas","2022",41008596
+"1007","Cape Verde","Africa","2022",638840
+"1008","Central African Republic","Africa","2022",7104274
+"1009","Chad","Africa","2022",22460393
+"1010","Chile","Americas","2022",19933769
+"1011","China","Asia","2022",1415605906
+"1012","Colombia","Americas","2022",54129764
+"1013","Comoros","Africa","2022",959412
+"1014","Costa Rica","Americas","2022",5432243
+"1015","Croatia","Europe","2022",3850140
+"1016","Cuba","Americas","2022",11016041
+"1017","Cyprus","Asia","2022",1311784
+"1018","Czech Republic","Europe","2022",10515199
+"1019","Denmark","Europe","2022",6104474
+"1020","Djibouti","Africa","2022",1247129
+"1021","Dominica","Americas","2022",74988
+"1022","Dominican Republic","Americas","2022",11982523
+"1023","DR Congo","Africa","2022",127582053
+"1024","Ecuador","Americas","2022",19486952
+"1025","Egypt","Africa","2022",125151725
+"1026","El Salvador","Americas","2022",6554224
+"1027","Equatorial Guinea","Africa","2022",1999678
+"1028","Eritrea","Africa","2022",4283355
+"1029","Estonia","Europe","2022",1289441
+"1030","Ethiopia","Africa","2022",149296378
+"1031","Fiji","Oceania","2022",986172
+"1032","Finland","Europe","2022",5565475
+"1033","France","Europe","2022",65543452
+"1034","French Guiana","Americas","2022",366669
+"1035","Gabon","Africa","2022",2774523
+"1036","Gambia","Africa","2022",3263651
+"1037","Georgia","Asia","2022",3657494
+"1038","Germany","Europe","2022",82762675
+"1039","Ghana","Africa","2022",38775850
+"1040","Greece","Europe","2022",10059703
+"1041","Greenland","Americas","2022",57152
+"1042","Grenada","Americas","2022",130367
+"1043","Guadeloupe","Americas","2022",399728
+"1044","Guatemala","Americas","2022",20003638
+"1045","Guinea","Africa","2022",16622388
+"1046","Guinea-Bissau","Africa","2022",2484863
+"1047","Guyana","Americas","2022",848033
+"1048","Haiti","Americas","2022",12700006
+"1049","Honduras","Americas","2022",11724522
+"1050","Hong Kong","Asia","2022",7485887
+"1051","Hungary","Europe","2022",9642912
+"1052","Iceland","Europe","2022",390338
+"1053","India","Asia","2022",1514994080
+"1054","Indonesia","Asia","2022",292150100
+"1055","Iraq","Asia","2022",52800825
+"1056","Ireland","Europe","2022",5266881
+"1057","Israel","Asia","2022",10134951
+"1058","Italy","Europe","2022",57544258
+"1059","Jamaica","Americas","2022",2804356
+"1060","Japan","Asia","2022",118514802
+"1061","Jordan","Asia","2022",11933395
+"1062","Kazakhstan","Asia","2022",21128221
+"1063","Kenya","Africa","2022",63103942
+"1064","Kiribati","Oceania","2022",148720
+"1065","Kuwait","Asia","2022",4564570
+"1066","Kyrgyzstan","Asia","2022",7435378
+"1067","Laos","Asia","2022",8321287
+"1068","Latvia","Europe","2022",1701338
+"1069","Lebanon","Asia","2022",4714240
+"1070","Lesotho","Africa","2022",2501946
+"1071","Liberia","Africa","2022",6282074
+"1072","Libya","Africa","2022",7394813
+"1073","Liechtenstein","Europe","2022",41030
+"1074","Lithuania","Europe","2022",2558928
+"1075","Luxembourg","Europe","2022",697086
+"1076","Madagascar","Africa","2022",35604443
+"1077","Malawi","Africa","2022",24944243
+"1078","Malaysia","Asia","2022",36687569
+"1079","Maldives","Asia","2022",512683
+"1080","Mali","Africa","2022",28712294
+"1081","Malta","Europe","2022",543425
+"1082","Marshall Islands","Oceania","2022",44733
+"1083","Martinique","Americas","2022",362472
+"1084","Mauritania","Africa","2022",5830563
+"1085","Mauritius","Africa","2022",1305425
+"1086","Mayotte","Africa","2022",407579
+"1087","Mexico","Americas","2022",134534107
+"1088","Micronesia","Oceania","2022",122704
+"1089","Moldova","Europe","2022",3174727
+"1090","Monaco","Europe","2022",35862
+"1091","Mongolia","Asia","2022",3736327
+"1092","Montenegro","Europe","2022",621696
+"1093","Morocco","Africa","2022",40226395
+"1094","Mozambique","Africa","2022",40920707
+"1095","Myanmar","Asia","2022",56987625
+"1096","Namibia","Africa","2022",2910056
+"1097","Nauru","Oceania","2022",13358
+"1098","Nepal","Asia","2022",33133395
+"1099","Netherlands","Europe","2022",17943803
+"1100","New Zealand","Oceania","2022",5495670
+"1101","Nicaragua","Americas","2022",7688686
+"1102","Niger","Africa","2022",35217942
+"1103","Nigeria","Africa","2022",262580426
+"1104","Norway","Europe","2022",5748397
+"1105","Oman","Asia","2022",5093376
+"1106","Pakistan","Asia","2022",274029836
+"1107","Palau","Oceania","2022",17919
+"1108","Palestine","Asia","2022",6256949
+"1109","Panama","Americas","2022",4864126
+"1110","Papua New Guinea","Oceania","2022",11615322
+"1111","Paraguay","Americas","2022",7425448
+"1112","Peru","Americas","2022",36702393
+"1113","Philippines","Asia","2022",129453321
+"1114","Poland","Europe","2022",38700518
+"1115","Portugal","Europe","2022",10062183
+"1116","Puerto Rico","Americas","2022",3259722
+"1117","Qatar","Asia","2022",2855291
+"1118","Reunion","Africa","2022",1031822
+"1119","Romania","Europe","2022",19023383
+"1120","Russia","Europe","2022",141432741
+"1121","Rwanda","Africa","2022",16375704
+"1122","Saint Kitts and Nevis","Americas","2022",48247
+"1123","Saint Lucia","Americas","2022",183274
+"1124","Saint Vincent and the Grenadines","Americas","2022",104322
+"1125","Samoa","Oceania","2022",248627
+"1126","San Marino","Europe","2022",33458
+"1127","Sao Tome and Principe","Africa","2022",265036
+"1128","Saudi Arabia","Asia","2022",40461368
+"1129","Senegal","Africa","2022",21125872
+"1130","Serbia","Europe","2022",6832604
+"1131","Seychelles","Africa","2022",111317
+"1132","Sierra Leone","Africa","2022",10105188
+"1133","Singapore","Asia","2022",6251988
+"1134","Slovakia","Europe","2022",5555114
+"1135","Slovenia","Europe","2022",2105945
+"1136","Solomon Islands","Oceania","2022",856264
+"1137","Somalia","Africa","2022",22316857
+"1138","South Africa","Africa","2022",64659278
+"1139","South Sudan","Africa","2022",12570402
+"1140","Spain","Europe","2022",47076573
+"1141","Sri Lanka","Asia","2022",22186970
+"1142","Sudan","Africa","2022",56997099
+"1143","Suriname","Americas","2022",659508
+"1144","Sweden","Europe","2022",11007228
+"1145","Switzerland","Europe","2022",9143698
+"1146","Syria","Asia","2022",29824735
+"1147","Taiwan","Asia","2022",24027999
+"1148","Tajikistan","Asia","2022",11421430
+"1149","Tanzania","Africa","2022",81885304
+"1150","Thailand","Asia","2022",72060018
+"1151","Timor-Leste","Asia","2022",1495081
+"1152","Togo","Africa","2022",10558178
+"1153","Tonga","Oceania","2022",114124
+"1154","Trinidad and Tobago","Americas","2022",1547690
+"1155","Tunisia","Africa","2022",13100768
+"1156","Turkey","Asia","2022",88879698
+"1157","Turkmenistan","Asia","2022",7034758
+"1158","Tuvalu","Oceania","2022",11917
+"1159","Uganda","Africa","2022",58380262
+"1160","Ukraine","Europe","2022",38295429
+"1161","United Arab Emirates","Asia","2022",10004319
+"1162","United Kingdom","Europe","2022",69175770
+"1163","United States","Americas","2022",352162301
+"1164","Uruguay","Americas","2022",3423372
+"1165","Uzbekistan","Asia","2022",38313228
+"1166","Venezuela","Americas","2022",32027461
+"1167","Western Sahara","Africa","2022",662726
+"1168","Yemen","Asia","2022",39923245
+"1169","Zambia","Africa","2022",24676417
+"1170","Zimbabwe","Africa","2022",19179393
+"1171","Afghanistan","Asia","2023",74075234
+"1172","Albania","Europe","2023",2456472
+"1173","Algeria","Africa","2023",60001113
+"1174","Andorra","Europe","2023",80504
+"1175","Angola","Africa","2023",72328068
+"1176","Antigua and Barbuda","Americas","2023",99030
+"1177","Argentina","Americas","2023",51621175
+"1178","Armenia","Asia","2023",2573465
+"1179","Australia","Oceania","2023",32192919
+"1180","Austria","Europe","2023",8924190
+"1181","Azerbaijan","Asia","2023",10867296
+"1182","Bahamas","Americas","2023",450625
+"1183","Bahrain","Asia","2023",1809237
+"1184","Bangladesh","Asia","2023",203904900
+"1185","Barbados","Americas","2023",267788
+"1186","Belarus","Europe","2023",8409632
+"1187","Belgium","Europe","2023",12090657
+"1188","Belize","Americas","2023",538838
+"1189","Benin","Africa","2023",25264035
+"1190","Bhutan","Asia","2023",874294
+"1191","Bolivia","Americas","2023",16609854
+"1192","Bosnia and Herzegovina","Europe","2023",2739014
+"1193","Botswana","Africa","2023",3679340
+"1194","Brazil","Americas","2023",230885725
+"1195","Brunei","Asia","2023",498373
+"1196","Bulgaria","Europe","2023",5187392
+"1197","Burkina Faso","Africa","2023",40541548
+"1198","Burundi","Africa","2023",24208671
+"1199","Cambodia","Asia","2023",20258435
+"1200","Cameroon","Africa","2023",51279560
+"1201","Canada","Americas","2023",45890819
+"1202","Cape Verde","Africa","2023",727457
+"1203","Central African Republic","Africa","2023",11533423
+"1204","Chad","Africa","2023",36452035
+"1205","Chile","Americas","2023",20675378
+"1206","China","Asia","2023",1312636325
+"1207","Colombia","Americas","2023",56987651
+"1208","Comoros","Africa","2023",1246207
+"1209","Costa Rica","Americas","2023",5702525
+"1210","Croatia","Europe","2023",3333425
+"1211","Cuba","Americas","2023",10028085
+"1212","Cyprus","Asia","2023",1391785
+"1213","Czech Republic","Europe","2023",10577126
+"1214","Denmark","Europe","2023",6445109
+"1215","Djibouti","Africa","2023",1502575
+"1216","Dominica","Americas","2023",74167
+"1217","Dominican Republic","Americas","2023",13180541
+"1218","DR Congo","Africa","2023",217494003
+"1219","Ecuador","Americas","2023",22269779
+"1220","Egypt","Africa","2023",160339889
+"1221","El Salvador","Americas","2023",6636854
+"1222","Equatorial Guinea","Africa","2023",2790533
+"1223","Eritrea","Africa","2023",5964021
+"1224","Estonia","Europe","2023",1171695
+"1225","Ethiopia","Africa","2023",214812309
+"1226","Fiji","Oceania","2023",1094174
+"1227","Finland","Europe","2023",5460917
+"1228","France","Europe","2023",65827072
+"1229","French Guiana","Americas","2023",532459
+"1230","Gabon","Africa","2023",3757053
+"1231","Gambia","Africa","2023",4673743
+"1232","Georgia","Asia","2023",3384660
+"1233","Germany","Europe","2023",78932228
+"1234","Ghana","Africa","2023",52231785
+"1235","Greece","Europe","2023",9144951
+"1236","Greenland","Americas","2023",53997
+"1237","Grenada","Americas","2023",136253
+"1238","Guadeloupe","Americas","2023",388861
+"1239","Guatemala","Americas","2023",24600727
+"1240","Guinea","Africa","2023",23711700
+"1241","Guinea-Bissau","Africa","2023",3445289
+"1242","Guyana","Americas","2023",878746
+"1243","Haiti","Americas","2023",15087520
+"1244","Honduras","Americas","2023",14258514
+"1245","Hong Kong","Asia","2023",6975391
+"1246","Hungary","Europe","2023",8817396
+"1247","Iceland","Europe","2023",408783
+"1248","India","Asia","2023",1670490596
+"1249","Indonesia","Asia","2023",317225213
+"1250","Iraq","Asia","2023",74515140
+"1251","Ireland","Europe","2023",5724686
+"1252","Israel","Asia","2023",12991790
+"1253","Italy","Europe","2023",52250484
+"1254","Jamaica","Americas","2023",2493823
+"1255","Japan","Asia","2023",103784357
+"1256","Jordan","Asia","2023",15005941
+"1257","Kazakhstan","Asia","2023",25609978
+"1258","Kenya","Africa","2023",85211739
+"1259","Kiribati","Oceania","2023",188570
+"1260","Kuwait","Asia","2023",5155414
+"1261","Kyrgyzstan","Asia","2023",9426858
+"1262","Laos","Asia","2023",9775552
+"1263","Latvia","Europe","2023",1433728
+"1264","Lebanon","Asia","2023",4937579
+"1265","Lesotho","Africa","2023",2898369
+"1266","Liberia","Africa","2023",8890700
+"1267","Libya","Africa","2023",8539976
+"1268","Liechtenstein","Europe","2023",42287
+"1269","Lithuania","Europe","2023",2187550
+"1270","Luxembourg","Europe","2023",781910
+"1271","Madagascar","Africa","2023",51592965
+"1272","Malawi","Africa","2023",37159300
+"1273","Malaysia","Asia","2023",41032433
+"1274","Maldives","Asia","2023",569909
+"1275","Mali","Africa","2023",47439802
+"1276","Malta","Europe","2023",522737
+"1277","Marshall Islands","Oceania","2023",51211
+"1278","Martinique","Americas","2023",330121
+"1279","Mauritania","Africa","2023",8914673
+"1280","Mauritius","Africa","2023",1226235
+"1281","Mayotte","Africa","2023",664141
+"1282","Mexico","Americas","2023",143772364
+"1283","Micronesia","Oceania","2023",135457
+"1284","Moldova","Europe","2023",2997532
+"1285","Monaco","Europe","2023",37664
+"1286","Mongolia","Asia","2023",4518856
+"1287","Montenegro","Europe","2023",586385
+"1288","Morocco","Africa","2023",45044990
+"1289","Mozambique","Africa","2023",63044497
+"1290","Myanmar","Asia","2023",59929399
+"1291","Namibia","Africa","2023",3779918
+"1292","Nauru","Oceania","2023",14695
+"1293","Nepal","Asia","2023",37401365
+"1294","Netherlands","Europe","2023",17897025
+"1295","New Zealand","Oceania","2023",5949002
+"1296","Nicaragua","Americas","2023",9094641
+"1297","Niger","Africa","2023",67043296
+"1298","Nigeria","Africa","2023",377459883
+"1299","Norway","Europe","2023",6367559
+"1300","Oman","Asia","2023",6328978
+"1301","Pakistan","Asia","2023",367808468
+"1302","Palau","Oceania","2023",16689
+"1303","Palestine","Asia","2023",8861747
+"1304","Panama","Americas","2023",5736121
+"1305","Papua New Guinea","Oceania","2023",14910369
+"1306","Paraguay","Americas","2023",8591486
+"1307","Peru","Americas","2023",42022554
+"1308","Philippines","Asia","2023",157891622
+"1309","Poland","Europe","2023",34932339
+"1310","Portugal","Europe","2023",9261305
+"1311","Puerto Rico","Americas","2023",2727624
+"1312","Qatar","Asia","2023",3358454
+"1313","Reunion","Africa","2023",1127252
+"1314","Romania","Europe","2023",17457213
+"1315","Russia","Europe","2023",133133035
+"1316","Rwanda","Africa","2023",23030046
+"1317","Saint Kitts and Nevis","Americas","2023",46882
+"1318","Saint Lucia","Americas","2023",177856
+"1319","Saint Vincent and the Grenadines","Americas","2023",101691
+"1320","Samoa","Oceania","2023",320016
+"1321","San Marino","Europe","2023",32044
+"1322","Sao Tome and Principe","Africa","2023",366663
+"1323","Saudi Arabia","Asia","2023",48374543
+"1324","Senegal","Africa","2023",32562869
+"1325","Serbia","Europe","2023",5777806
+"1326","Seychelles","Africa","2023",116644
+"1327","Sierra Leone","Africa","2023",13595023
+"1328","Singapore","Asia","2023",6337235
+"1329","Slovakia","Europe","2023",5186967
+"1330","Slovenia","Europe","2023",2003258
+"1331","Solomon Islands","Oceania","2023",1225407
+"1332","Somalia","Africa","2023",36462830
+"1333","South Africa","Africa","2023",73529753
+"1334","South Sudan","Africa","2023",17460846
+"1335","Spain","Europe","2023",44219565
+"1336","Sri Lanka","Asia","2023",21814985
+"1337","Sudan","Africa","2023",84494269
+"1338","Suriname","Americas","2023",725519
+"1339","Sweden","Europe","2023",11902033
+"1340","Switzerland","Europe","2023",9753753
+"1341","Syria","Asia","2023",38306374
+"1342","Taiwan","Asia","2023",22445526
+"1343","Tajikistan","Asia","2023",15200989
+"1344","Tanzania","Africa","2023",129931520
+"1345","Thailand","Asia","2023",67880083
+"1346","Timor-Leste","Asia","2023",1806869
+"1347","Togo","Africa","2023",15478883
+"1348","Tonga","Oceania","2023",131225
+"1349","Trinidad and Tobago","Americas","2023",1485139
+"1350","Tunisia","Africa","2023",14315779
+"1351","Turkey","Asia","2023",95829258
+"1352","Turkmenistan","Asia","2023",8263833
+"1353","Tuvalu","Oceania","2023",13211
+"1354","Uganda","Africa","2023",87622081
+"1355","Ukraine","Europe","2023",32867719
+"1356","United Arab Emirates","Asia","2023",11449471
+"1357","United Kingdom","Europe","2023",71684966
+"1358","United States","Americas","2023",375391963
+"1359","Uruguay","Americas","2023",3337143
+"1360","Uzbekistan","Asia","2023",45593149
+"1361","Venezuela","Americas","2023",35937404
+"1362","Western Sahara","Africa","2023",851067
+"1363","Yemen","Asia","2023",55296331
+"1364","Zambia","Africa","2023",37460435
+"1365","Zimbabwe","Africa","2023",26438589
